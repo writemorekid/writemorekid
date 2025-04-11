@@ -4,7 +4,7 @@ Welcome to `writemorekid` — my personal GitHub playground, where I document my
 
 ## 🧠 About Me
 
-I'm Rishabh — an aspiring Ground Duty (Non-Tech) Officer in the Indian Air Force, a tech enthusiast, and a guy who believes in balancing logic with leadership. When I'm not preparing for the AFCAT or exploring OLQs, I'm usually experimenting with code, building Discord servers, or helping communities grow online.
+I'm Rishabh — an aspiring student, a tech enthusiast, and a guy who believes in balancing logic with leadership. When I'm not preparing for the AFCAT or exploring OLQs, I'm usually experimenting with code, building Discord servers, or helping communities grow online.
 
 This repo is a space for:
 - Trying out new tech and tools
