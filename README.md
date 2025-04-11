@@ -1,20 +1,27 @@
-# self
+# @writemorekid 
 
-This repository serves as a personal space for experimentation, learning, and growth as a developer.
+Welcome to `writemorekid` — my personal GitHub playground, where I document my journey of learning, building, and leveling up. 
 
-## 📌 About
+## 🧠 About Me
 
-`self` is a collection of personal projects, code snippets, and experiments. It reflects my journey in programming, development, and creative problem-solving. Expect a mix of finished tools, work-in-progress ideas, and rough sketches.
+I'm Rishabh — an aspiring Ground Duty (Non-Tech) Officer in the Indian Air Force, a tech enthusiast, and a guy who believes in balancing logic with leadership. When I'm not preparing for the AFCAT or exploring OLQs, I'm usually experimenting with code, building Discord servers, or helping communities grow online.
 
-## 🛠️ Tech Stack
+This repo is a space for:
+- Trying out new tech and tools
+- Storing useful scripts and snippets
+- Sharing small projects and ideas
+- Evolving as a developer and a person
 
-- Languages: Python, JavaScript, Bash, C++
-- Tools: Git, VS Code, Node.js, Linux CLI
-- Extras: Whatever I feel like exploring next
+## ⚙️ Tools & Tech I Mess With
+
+- **Languages:** Python, JavaScript, C++, Bash
+- **Tools:** Git, VS Code, Linux, Discord APIs
+- **Projects:** Automation scripts, Discord bots, science notes in PowerPoint (yeah, I do that too 😄)
 
 ## 🚀 Getting Started
 
-Clone this repo:
+To clone and explore:
+
 ```bash
 git clone https://github.com/<your-username>/self.git
 cd self
