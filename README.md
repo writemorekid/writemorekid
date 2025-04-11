@@ -23,5 +23,5 @@ This repo is a space for:
 To clone and explore:
 
 ```bash
-git clone https://github.com/<your-username>/self.git
+git clone https://github.com/writemorekid/self.git
 cd self
