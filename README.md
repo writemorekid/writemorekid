@@ -35,8 +35,9 @@ This repo is a space for:
 
 ## 📈 GitHub Stats
 
-![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=writemorekid&theme=tokyonight)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=writemorekid&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
