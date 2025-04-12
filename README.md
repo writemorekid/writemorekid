@@ -64,4 +64,71 @@ When I’m not prepping for AFCAT or working on OLQs, you’ll probably find me:
 ---
 
 > “Discipline + Curiosity = A future worth writing.”
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I’m+Rishabh+(@writemorekid)!;Python+Enthusiast+🔥;Future+IAF+Officer+🛩️;Always+learning,+always+building.&center=true&width=500&height=50">
+</p>
+
+---
+
+# 💬 About Me
+
+I'm **Rishabh**, also known as `@writemorekid` —  
+A self-taught programmer, disciplined learner, and Air Force aspirant who’s all about **turning logic into action**.
+
+### ✨ A little about me:
+- 🧠 Learning: Python, Git, Discord bot dev & scripting
+- ✈️ Preparing for: AFCAT – Ground Duty (Non-Tech)
+- 👨‍🏫 Making educational tools for both students & teachers
+- 🎯 Goals: Build, teach, serve, and maybe take off in a Sukhoi one day 🚀
+
+---
+
+# 🛠️ My Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,bash,git,github,vscode,linux,powershell" />
+</div>
+
+---
+
+# 📂 Projects I’m Proud Of
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🎓 **Python Basics for Students** | A beginner-friendly Python repo for absolute beginners | Python, Markdown |
+| 🧠 **Science Notes Class 10** | Fully designed PowerPoint slides to aid visual learning | PowerPoint, Design |
+| 🤖 **IAF Parody Discord Server** | A parody server modeled on military structure | Discord, Moderation |
+| 🔧 **Utility Scripts** | Automation scripts for daily tasks | Python, Bash |
+
+Want to collab on something? [Let’s talk.](mailto:your@email.com)
+
+---
+
+# 📊 GitHub Vibes
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=writemorekid&theme=tokyonight&hide_border=true" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=writemorekid&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=writemorekid&layout=compact&theme=tokyonight&hide_border=true" />
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=writemorekid&theme=tokyonight&row=1&margin-w=10" />
+</p>
+
+---
+
+# 📡 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
+  <a href="https://youtube.com/yourchannel"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white"></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-black?logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+> _“Code with clarity, serve with courage.”_ 🫡  
+> — writemorekid
 
