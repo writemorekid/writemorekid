@@ -132,3 +132,6 @@ Want to collab on something? [Let’s talk.](mailto:your@email.com)
 > _“Code with clarity, serve with courage.”_ 🫡  
 > — writemorekid
 
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=writemorekid&layout=compact&theme=tokyonight)
